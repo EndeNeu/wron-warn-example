@@ -1,0 +1,10 @@
+logs
+project/project
+project/target
+target
+.eclipse
+.idea
+.classpath
+.project
+build-version
+

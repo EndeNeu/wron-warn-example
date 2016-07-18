@@ -1,0 +1,1 @@
+Example for error triggered on route file when [-Ywarn-unused-import and -Xfatal-warnings](http://stackoverflow.com/questions/37413032/ywarn-unused-import-triggering-on-play-routes-file?noredirect=1#comment64264625_37413032) are anbled.
